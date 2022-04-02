@@ -6,7 +6,7 @@ except:
     from distutils.core import setup, Extension
 
 setup(name='cGPolyEncode',
-    version='0.1.1',
+    version='0.1.2',
     description="Google Maps Polyline encoding (C++ extension)",
     long_description="Encode line & polygon coordinates for use in Google Maps.",
     author='Robert Coup',
